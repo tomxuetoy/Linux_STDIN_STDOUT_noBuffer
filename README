@@ -1,0 +1,4 @@
+gcc mycat.c libapue.a
+./a.out
+
+ctrl+D 结束 
